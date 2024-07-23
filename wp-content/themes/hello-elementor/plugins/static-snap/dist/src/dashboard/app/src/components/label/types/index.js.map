@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../../../../src/dashboard/app/src/components/label/types/index.ts"],"names":[],"mappings":"","sourcesContent":["export { LabelVariant } from './label-variant';\nexport { LabelProps } from './label-props';\nexport { LabelColor } from './label-color';\n"]}

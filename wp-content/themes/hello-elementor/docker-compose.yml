@@ -1,0 +1,41 @@
+version: '3.9'
+
+services:
+  db:
+    image: mariadb
+    volumes:
+      - db_data:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: wordpress
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: wordpress
+    ports:
+      - '3306:3306'
+
+  wordpress:
+    depends_on:
+      - db
+    image: wordpress:php8.3-apache
+    volumes:
+      - .:/var/www/html/wp-content/themes/hello-elementor
+      - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+      - ./wp-config.php:/var/www/html/wp-config.php
+      - ./plugins:/var/www/html/wp-content/plugins
+      - ./.env:/var/www/html/.env
+      - ./vendor:/var/www/html/vendor
+      - ./assets/uploads:/var/www/html/wp-content/uploads
+    ports:
+      - '80:80'
+    restart: always
+    extra_hosts:
+      - 'host.docker.internal:host-gateway'
+    #environment: # enviroment now is set in .env file
+    #WORDPRESS_DB_HOST: db:3306
+    #WORDPRESS_DB_USER: wordpress
+    #WORDPRESS_DB_PASSWORD: wordpress
+    #WORDPRESS_DB_NAME: wordpress
+    #WORDPRESS_DEBUG: 1
+volumes:
+  db_data: {}

@@ -1,0 +1,92 @@
+IDEAS
+
+
+Environments:
+    - DEV
+    - STAGE
+    - PROD
+
+Each Environment has a set of variables:
+    - TYPE : GITHUB
+    - URL : URL of the environment
+
+
+
+Permissions:
+    Allow to publish to Environments:
+        - DEV
+        - STAGE
+        - PROD
+
+
+
+
+ALL ENVIRONMENTS WILL BE CONNECTED TO A LOCAL GIT REPOSITORY
+    - DEV
+
+
+
+
+Build tasks:
+- get feeds
+- get posts
+- get assets
+- fetch posts *
+- copy only assets that can be modified *
+
+deployment task:
+- replace content on *
+- copy rest of assets
+- deploy to environment
+
+
+TODO:
+post archives
+post archives pagination
+author pagination
+terms pagination
+
+
+
+// GIT
+static snap git service
+user log with oauth app
+user install github app
+
+static snap git server has git and node in their side
+user upload to their account the zip file
+server uncompress zip file
+server clone their git REPOSITORY
+merge zip and git REPOSITORY
+git push origin [branch]
+delete zip file
+
+
+
+// git new
+
+steps to push
+- create a new branch called static-snap
+- create a github action in static-snap branch
+- zip the files
+- upload the zip a new release in static-snap branch that will trigger the action
+- the action will unzip the files and push to the branch
+
+
+
+// check last modified in wordpress
+if a environment was deployed and there is no modifications in wordpress re-use it
+this should involve modify urls tables adding an environment_id field, also in url_replaces
+
+
+[charges]
+- Deployments :
+Free 1 site
+ Github - 10 a month
+Development $10
+	Github  50
+Profisional 30
+	200
+Master 100 Unlimited sites
+	Unlimited
+

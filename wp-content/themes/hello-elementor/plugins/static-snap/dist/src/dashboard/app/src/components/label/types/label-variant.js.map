@@ -1,0 +1,1 @@
+{"version":3,"file":"label-variant.js","sourceRoot":"","sources":["../../../../../../../../src/dashboard/app/src/components/label/types/label-variant.ts"],"names":[],"mappings":"","sourcesContent":["export type LabelVariant = 'filled' | 'outlined' | 'soft';\n"]}

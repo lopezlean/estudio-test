@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.js","sourceRoot":"","sources":["../../../../../src/dashboard/app/src/constants.ts"],"names":[],"mappings":";;;AAAa,QAAA,eAAe,GAAG,uBAAuB,CAAC","sourcesContent":["export const STATIC_SNAP_URL = 'http://localhost:4321';\n"]}

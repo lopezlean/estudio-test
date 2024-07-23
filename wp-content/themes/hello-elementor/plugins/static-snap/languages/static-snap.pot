@@ -1,0 +1,338 @@
+# Copyright (C) 2024 Leandro Emanuel Lopez
+# This file is distributed under the same license as the Static Snap plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Static Snap 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/static-snap\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-28T13:43:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: static-snap\n"
+
+#. Plugin Name of the plugin
+#: static-snap.php
+msgid "Static Snap"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: static-snap.php
+msgid "https://staticsnap.com"
+msgstr ""
+
+#. Description of the plugin
+#: static-snap.php
+msgid "Static Snap transforms WordPress into a powerful tool for creating static websites."
+msgstr ""
+
+#. Author of the plugin
+#: static-snap.php
+msgid "Leandro Emanuel Lopez"
+msgstr ""
+
+#: src/dashboard/class-settings.php:61
+#: src/dashboard/class-settings.php:62
+#: assets/js/dashboard.js:49567
+msgid "Dashboard"
+msgstr ""
+
+#: src/dashboard/class-settings.php:71
+#: src/dashboard/class-settings.php:72
+#: assets/js/dashboard.js:46708
+#: assets/js/dashboard.js:48711
+msgid "Settings"
+msgstr ""
+
+#: src/extensions/forms/contact-form-7/class-contact-form-7-extension.php:117
+msgid "Form ID"
+msgstr ""
+
+#: src/extensions/forms/elementor/class-elementor-form-extension.php:158
+msgid "Elementor Form ID"
+msgstr ""
+
+#: src/github/class-github-manager.php:127
+msgid "Update Static Snap action file"
+msgstr ""
+
+#: src/github/class-github-manager.php:132
+msgid "Add Static Snap action file"
+msgstr ""
+
+#. translators: %s is the branch name.
+#: src/github/class-github-manager.php:171
+msgid "Static Snap Release for branch %s"
+msgstr ""
+
+#: src/github/class-github-manager.php:172
+msgid "ZIP release from Static Snap."
+msgstr ""
+
+#: src/integrations/elementor/class-widget-base.php:185
+#: src/integrations/elementor/widgets/search/class-search-widget.php:72
+msgid "Content"
+msgstr ""
+
+#: src/integrations/elementor/widgets/search/class-search-widget.php:44
+#: src/integrations/elementor/widgets/search/class-search-widget.php:82
+#: src/integrations/elementor/widgets/search/render.php:17
+#: assets/js/dashboard.js:48709
+msgid "Search"
+msgstr ""
+
+#: src/integrations/elementor/widgets/search/class-search-widget.php:79
+msgid "Placeholder"
+msgstr ""
+
+#: src/integrations/elementor/widgets/search/class-search-widget.php:92
+msgid "Size"
+msgstr ""
+
+#: src/integrations/elementor/widgets/search/render.php:19
+msgid "Submit"
+msgstr ""
+
+#: src/rest/class-rest-connect.php:81
+msgid "No connection data found"
+msgstr ""
+
+#: src/rest/class-rest-connect.php:93
+msgid "Website ID does not match"
+msgstr ""
+
+#: static-snap.php:58
+msgid "Static Snap is unable to find the Bootstrap class."
+msgstr ""
+
+#: static-snap.php:72
+msgid "Static Snap is unable to run the Bootstrap class."
+msgstr ""
+
+#: assets/js/dashboard.js:46181
+msgid "Running"
+msgstr ""
+
+#: assets/js/dashboard.js:46197
+msgid "Cancel"
+msgstr ""
+
+#: assets/js/dashboard.js:46396
+msgid "Connect to your account"
+msgstr ""
+
+#: assets/js/dashboard.js:46397
+msgid "You need to connect to your account to access this page."
+msgstr ""
+
+#: assets/js/dashboard.js:46397
+msgid "Click the button below to connect."
+msgstr ""
+
+#: assets/js/dashboard.js:46401
+msgid "Go to connect page"
+msgstr ""
+
+#: assets/js/dashboard.js:46561
+msgid "Congratulations"
+msgstr ""
+
+#: assets/js/dashboard.js:46571
+msgid "View static site"
+msgstr ""
+
+#: assets/js/dashboard.js:46573
+msgid "Close"
+msgstr ""
+
+#: assets/js/dashboard.js:46636
+msgid "Lastest Deployment"
+msgstr ""
+
+#: assets/js/dashboard.js:46637
+msgid "Start date:"
+msgstr ""
+
+#: assets/js/dashboard.js:46637
+msgid "End date:"
+msgstr ""
+
+#: assets/js/dashboard.js:46637
+msgid "Created by:"
+msgstr ""
+
+#: assets/js/dashboard.js:46707
+msgid "Deploy to %s"
+msgstr ""
+
+#: assets/js/dashboard.js:46811
+msgid "No environments found. "
+msgstr ""
+
+#: assets/js/dashboard.js:46813
+msgid "Add Environment"
+msgstr ""
+
+#: assets/js/dashboard.js:46926
+msgid "(needs Static Snap Connect)"
+msgstr ""
+
+#: assets/js/dashboard.js:46972
+msgid "Delete"
+msgstr ""
+
+#: assets/js/dashboard.js:46977
+#: assets/js/dashboard.js:47978
+msgid "Save"
+msgstr ""
+
+#: assets/js/dashboard.js:47950
+msgid "Enable search"
+msgstr ""
+
+#: assets/js/dashboard.js:47958
+msgid "Search selector"
+msgstr ""
+
+#: assets/js/dashboard.js:47959
+#: assets/js/dashboard.js:47964
+msgid "CSS selector for search input, if empty the default value is: %s"
+msgstr ""
+
+#: assets/js/dashboard.js:47963
+msgid "Search results selector"
+msgstr ""
+
+#: assets/js/dashboard.js:48691
+msgid "dashboard"
+msgstr ""
+
+#: assets/js/dashboard.js:48697
+#: assets/js/dashboard.js:49507
+msgid "Connect"
+msgstr ""
+
+#: assets/js/dashboard.js:48701
+msgid "Environments"
+msgstr ""
+
+#: assets/js/dashboard.js:48705
+msgid "Deployments"
+msgstr ""
+
+#: assets/js/dashboard.js:48716
+msgid "Your account"
+msgstr ""
+
+#: assets/js/dashboard.js:48720
+msgid "Websites"
+msgstr ""
+
+#: assets/js/dashboard.js:48724
+msgid "Form submissions"
+msgstr ""
+
+#: assets/js/dashboard.js:48726
+msgid "Account"
+msgstr ""
+
+#: assets/js/dashboard.js:48731
+msgid "Docs"
+msgstr ""
+
+#: assets/js/dashboard.js:48733
+msgid "Support"
+msgstr ""
+
+#: assets/js/dashboard.js:49357
+msgid "Are you sure you want to disconnect?"
+msgstr ""
+
+#: assets/js/dashboard.js:49419
+msgid "Connect with StaticSnap"
+msgstr ""
+
+#: assets/js/dashboard.js:49425
+msgid "Connected successfully!"
+msgstr ""
+
+#: assets/js/dashboard.js:49430
+msgid "Failed to connect. Please try again."
+msgstr ""
+
+#: assets/js/dashboard.js:49430
+msgid "Transform your dynamic WordPress site into a high-performance, secure static website with Static Snap! By connecting your site to our platform, you can seamlessly integrate with GitHub, enabling automatic deployments to top-tier hosting services like Vercel, Cloudflare Pages, Amazon S3, Netlify, AWS Amplify, Heroku, GitLab Pages, and Bitbucket Cloud. Experience the ease of deploying front-end frameworks and optimize your project’s reach and flexibility. Join Static Snap today and start deploying smarter!\t\t\t\t\t\t"
+msgstr ""
+
+#: assets/js/dashboard.js:49446
+msgid "You are connected"
+msgstr ""
+
+#: assets/js/dashboard.js:49451
+msgid "Your website license is invalid. Please try connecting again. If the issue persists, contact support."
+msgstr ""
+
+#: assets/js/dashboard.js:49451
+msgid "The license may be invalid due to the following reasons:"
+msgstr ""
+
+#: assets/js/dashboard.js:49461
+msgid "The website URL has changed after connecting to Static Snap."
+msgstr ""
+
+#: assets/js/dashboard.js:49469
+msgid "The website Database settings have changed after connecting to Static Snap."
+msgstr ""
+
+#: assets/js/dashboard.js:49477
+msgid "The website has been removed from your account."
+msgstr ""
+
+#: assets/js/dashboard.js:49485
+msgid "You have exceeded the number of websites allowed by your license."
+msgstr ""
+
+#: assets/js/dashboard.js:49490
+msgid "An error occurred while connecting to Static Snap. Please try again. If the issue persists, contact support."
+msgstr ""
+
+#: assets/js/dashboard.js:49490
+msgid "Error message: %s"
+msgstr ""
+
+#: assets/js/dashboard.js:49496
+msgid "Disconnect"
+msgstr ""
+
+#: assets/js/dashboard.js:49501
+msgid "Clicking on connect will redirect you to Static Snap's website to connect your WordPress site to the platform."
+msgstr ""
+
+#: assets/js/dashboard.js:49568
+msgid "Welcome back to Static Snap!"
+msgstr ""
+
+#: assets/js/dashboard.js:49574
+msgid "Your environments:"
+msgstr ""
+
+#: assets/js/dashboard.js:49578
+msgid "Your site will be deployed using %s engine."
+msgstr ""
+
+#: assets/js/dashboard.js:49797
+msgid "Are you sure you want to delete this environment?"
+msgstr ""
+
+#: assets/js/dashboard.js:50040
+msgid "Are you sure you want to delete this form submission? This action cannot be undone."
+msgstr ""
+
+#: assets/js/dashboard.js:50174
+#: assets/js/dashboard.js:50197
+msgid "This is your current website"
+msgstr ""

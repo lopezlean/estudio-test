@@ -1,0 +1,1 @@
+{"version":3,"file":"environment-type.interface.js","sourceRoot":"","sources":["../../../../../../src/dashboard/app/src/interfaces/environment-type.interface.ts"],"names":[],"mappings":"","sourcesContent":["import ExtensionInterface from './extension.interface';\n\nexport default interface EnvironmentTypeInterface extends ExtensionInterface {\n  needsConnect: boolean;\n}\n"]}

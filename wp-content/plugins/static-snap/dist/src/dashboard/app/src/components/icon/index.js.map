@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../../../src/dashboard/app/src/components/icon/index.ts"],"names":[],"mappings":";;;;AAAA,6DAAmC;AACnC,+BAAiC;AAAxB,wHAAA,OAAO,OAAA","sourcesContent":["export * from './types/icon-props';\nexport { default } from './icon';\n"]}

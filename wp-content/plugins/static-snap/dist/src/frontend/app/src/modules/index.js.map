@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../../src/frontend/app/src/modules/index.ts"],"names":[],"mappings":";;;;;;AAAA,mCAA6C;AAApC,iHAAA,OAAO,OAAU","sourcesContent":["export { default as Search } from './search';\n"]}

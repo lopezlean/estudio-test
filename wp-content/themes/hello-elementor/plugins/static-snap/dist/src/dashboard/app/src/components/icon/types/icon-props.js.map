@@ -1,0 +1,1 @@
+{"version":3,"file":"icon-props.js","sourceRoot":"","sources":["../../../../../../../../src/dashboard/app/src/components/icon/types/icon-props.ts"],"names":[],"mappings":"","sourcesContent":["import { IconifyIcon } from '@iconify/react';\n\nexport type IconifyProps = IconifyIcon | string;\n"]}

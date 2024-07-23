@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../../src/frontend/app/src/interfaces/index.ts"],"names":[],"mappings":"","sourcesContent":["export { type default as DocumentType } from './document.interface';\nexport { default as SearchModuleInterface } from './search-module.interface';\n"]}

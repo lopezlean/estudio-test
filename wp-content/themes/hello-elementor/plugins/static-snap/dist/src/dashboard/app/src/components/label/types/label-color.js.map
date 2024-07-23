@@ -1,0 +1,1 @@
+{"version":3,"file":"label-color.js","sourceRoot":"","sources":["../../../../../../../../src/dashboard/app/src/components/label/types/label-color.ts"],"names":[],"mappings":"","sourcesContent":["export type LabelColor =\n  | 'default'\n  | 'primary'\n  | 'secondary'\n  | 'info'\n  | 'success'\n  | 'warning'\n  | 'error';\n"]}

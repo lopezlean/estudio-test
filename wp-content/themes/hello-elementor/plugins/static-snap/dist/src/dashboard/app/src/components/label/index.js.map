@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../../../src/dashboard/app/src/components/label/index.ts"],"names":[],"mappings":";;;;AAAA,kDAAwB;AAExB,iCAAkC;AAAzB,yHAAA,OAAO,OAAA","sourcesContent":["export * from './types';\n\nexport { default } from './label';\n"]}

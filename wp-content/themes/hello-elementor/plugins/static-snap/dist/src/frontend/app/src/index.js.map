@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../src/frontend/app/src/index.ts"],"names":[],"mappings":";;;;AAAA,uDAA6B;AAE7B,uCAAiD;AAAxC,6HAAA,OAAO,OAAY","sourcesContent":["export * from './interfaces';\n\nexport { default as Frontend } from './frontend';\n"]}

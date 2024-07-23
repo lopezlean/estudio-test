@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../../../src/dashboard/app/src/components/svg-color/index.ts"],"names":[],"mappings":";;;;;;AAAA,yCAAsC;AAA7B,qHAAA,OAAO,OAAA","sourcesContent":["export { default } from './svg-color';\n"]}
