@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Home	</title>
-	<atom:link href="/home/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://stage2.com/home/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>https://stage2.com/</link>
 	<description></description>
 	<lastBuildDate>Mon, 22 Jul 2024 08:17:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

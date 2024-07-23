@@ -8,12 +8,12 @@
 
 	<updated>2023-10-31T13:33:02Z</updated>
 
-	<link rel="alternate" type="text/html" href="/" />
-	<id>/feed/index.rssatom/</id>
-	<link rel="self" type="application/atom+xml" href="/category/sin-categoria/feed/index.rssatom/" />
+	<link rel="alternate" type="text/html" href="https://stage2.com/" />
+	<id>https://stage2.com/feed/index.rssatom/</id>
+	<link rel="self" type="application/atom+xml" href="https://stage2.com/category/sin-categoria/feed/index.rssatom/" />
 
 	<generator uri="https://wordpress.org/" version="6.6">WordPress</generator>
-<icon>/wp-content/uploads/2023/10/cropped-cropped-cropped-6f2eab96-ddee-4759-a2b2-338e67a5b80f-32x32.webp</icon>
+<icon>https://stage2.com/wp-content/uploads/2023/10/cropped-cropped-cropped-6f2eab96-ddee-4759-a2b2-338e67a5b80f-32x32.webp</icon>
 	<entry>
 		<author>
 			<name>admin-estudio</name>
@@ -21,20 +21,20 @@
 						</author>
 
 		<title type="html"><![CDATA[¡Hola mundo!]]></title>
-		<link rel="alternate" type="text/html" href="/2023/10/31/hola-mundo/" />
+		<link rel="alternate" type="text/html" href="https://stage2.com/2023/10/31/hola-mundo/" />
 
 		<id>https://localhost/?p=1</id>
 		<updated>2023-10-31T13:33:02Z</updated>
 		<published>2023-10-31T13:33:02Z</published>
-		<category scheme="/" term="Sin categoría" />
+		<category scheme="https://stage2.com/" term="Sin categoría" />
 		<summary type="html"><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!]]></summary>
 
-					<content type="html" xml:base="/2023/10/31/hola-mundo/"><![CDATA[
+					<content type="html" xml:base="https://stage2.com/2023/10/31/hola-mundo/"><![CDATA[
 <p>Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!</p>
 ]]></content>
 		
-					<link rel="replies" type="text/html" href="/2023/10/31/hola-mundo/#comments" thr:count="1" />
-			<link rel="replies" type="application/atom+xml" href="/2023/10/31/hola-mundo/feed/index.rssatom/" thr:count="1" />
+					<link rel="replies" type="text/html" href="https://stage2.com/2023/10/31/hola-mundo/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="https://stage2.com/2023/10/31/hola-mundo/feed/index.rssatom/" thr:count="1" />
 			<thr:total>1</thr:total>
 			</entry>
 	</feed>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Global Styles	</title>
-	<atom:link href="/global-styles/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://stage2.com/global-styles/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>https://stage2.com/</link>
 	<description></description>
 	<lastBuildDate>Tue, 31 Oct 2023 13:37:18 +0000</lastBuildDate>
 	<sy:updatePeriod>

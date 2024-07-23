@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Estudio Frontier</title>
-	<atom:link href="/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://stage2.com/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>https://stage2.com/</link>
 	<description></description>
 	<lastBuildDate>Tue, 31 Oct 2023 13:37:12 +0000</lastBuildDate>
 	<language>es-AR</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.6</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/10/cropped-cropped-cropped-6f2eab96-ddee-4759-a2b2-338e67a5b80f-32x32.webp</url>
+	<url>https://stage2.com/wp-content/uploads/2023/10/cropped-cropped-cropped-6f2eab96-ddee-4759-a2b2-338e67a5b80f-32x32.webp</url>
 	<title>Estudio Frontier</title>
-	<link>/</link>
+	<link>https://stage2.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title9/</link>
-					<comments>/2023/10/31/article-title9/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title9/</link>
+					<comments>https://stage2.com/2023/10/31/article-title9/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:12 +0000</pubDate>
@@ -58,15 +58,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title9/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title9/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title8/</link>
-					<comments>/2023/10/31/article-title8/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title8/</link>
+					<comments>https://stage2.com/2023/10/31/article-title8/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:12 +0000</pubDate>
@@ -94,15 +94,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title8/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title8/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title7/</link>
-					<comments>/2023/10/31/article-title7/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title7/</link>
+					<comments>https://stage2.com/2023/10/31/article-title7/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:12 +0000</pubDate>
@@ -130,15 +130,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title7/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title7/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title6/</link>
-					<comments>/2023/10/31/article-title6/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title6/</link>
+					<comments>https://stage2.com/2023/10/31/article-title6/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:12 +0000</pubDate>
@@ -166,15 +166,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title6/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title6/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title5/</link>
-					<comments>/2023/10/31/article-title5/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title5/</link>
+					<comments>https://stage2.com/2023/10/31/article-title5/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:12 +0000</pubDate>
@@ -202,15 +202,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title5/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title5/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title4/</link>
-					<comments>/2023/10/31/article-title4/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title4/</link>
+					<comments>https://stage2.com/2023/10/31/article-title4/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:12 +0000</pubDate>
@@ -238,15 +238,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title4/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title4/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title3/</link>
-					<comments>/2023/10/31/article-title3/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title3/</link>
+					<comments>https://stage2.com/2023/10/31/article-title3/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:12 +0000</pubDate>
@@ -274,15 +274,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title3/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title3/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title2/</link>
-					<comments>/2023/10/31/article-title2/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title2/</link>
+					<comments>https://stage2.com/2023/10/31/article-title2/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:12 +0000</pubDate>
@@ -310,15 +310,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title2/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title2/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Article Title</title>
-		<link>/2023/10/31/article-title/</link>
-					<comments>/2023/10/31/article-title/#respond</comments>
+		<link>https://stage2.com/2023/10/31/article-title/</link>
+					<comments>https://stage2.com/2023/10/31/article-title/#respond</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:37:11 +0000</pubDate>
@@ -346,15 +346,15 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.<br><br>Etiam erat quam, pellentesque in maximus vitae, sollicitudin sed dui. Fusce blandit turpis nec aliquam pharetra. Suspendisse imperdiet molestie imperdiet. Pellentesque imperdiet magna tincidunt, ultricies tellus at, aliquet sapien.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus nisi sed suscipit cursus. Donec porta metus porta, ullamcorper libero ut, viverra augue. Maecenas consequat, dolor eget pharetra imperdiet, dolor urna luctus urna, id porta tellus leo nec nisl. Mauris et volutpat sapien, facilisis eleifend felis. Phasellus rutrum purus risus, vel vestibulum sem commodo vitae. Fusce vel arcu quam. Nulla euismod a mi eu elementum. Mauris iaculis nec justo ac fermentum. Quisque quis enim sit amet velit gravida tempor et quis mauris. Vestibulum fermentum est nulla, a accumsan libero ultrices nec.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/article-title/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/article-title/feed/index.rss</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>¡Hola mundo!</title>
-		<link>/2023/10/31/hola-mundo/</link>
-					<comments>/2023/10/31/hola-mundo/#comments</comments>
+		<link>https://stage2.com/2023/10/31/hola-mundo/</link>
+					<comments>https://stage2.com/2023/10/31/hola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:33:02 +0000</pubDate>
@@ -366,7 +366,7 @@
 <p>Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/10/31/hola-mundo/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://stage2.com/2023/10/31/hola-mundo/feed/index.rss</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

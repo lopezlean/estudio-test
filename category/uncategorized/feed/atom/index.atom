@@ -8,10 +8,10 @@
 
 	<updated>2024-07-22T08:17:22Z</updated>
 
-	<link rel="alternate" type="text/html" href="/" />
-	<id>/feed/index.rssatom/</id>
-	<link rel="self" type="application/atom+xml" href="/category/uncategorized/feed/index.rssatom/" />
+	<link rel="alternate" type="text/html" href="https://stage2.com/" />
+	<id>https://stage2.com/feed/index.rssatom/</id>
+	<link rel="self" type="application/atom+xml" href="https://stage2.com/category/uncategorized/feed/index.rssatom/" />
 
 	<generator uri="https://wordpress.org/" version="6.6">WordPress</generator>
-<icon>/wp-content/uploads/2023/10/cropped-cropped-cropped-6f2eab96-ddee-4759-a2b2-338e67a5b80f-32x32.webp</icon>
+<icon>https://stage2.com/wp-content/uploads/2023/10/cropped-cropped-cropped-6f2eab96-ddee-4759-a2b2-338e67a5b80f-32x32.webp</icon>
 </feed>
