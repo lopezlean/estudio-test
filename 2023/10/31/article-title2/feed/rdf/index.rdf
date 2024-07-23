@@ -6,9 +6,9 @@
 	xmlns:admin="http://webns.net/mvcb/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-<channel rdf:about="/">
+<channel rdf:about="https://stage2.com/">
 	<title>Article Title &#8211; Estudio Frontier</title>
-	<link>/</link>
+	<link>https://stage2.com/</link>
 	<description></description>
 	<dc:date>2023-10-31T13:37:12Z	</dc:date>
 	<sy:updatePeriod>
@@ -19,13 +19,13 @@
 	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="/2023/10/31/article-title2/"/>
+					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title2/"/>
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="/2023/10/31/article-title2/">
+<item rdf:about="https://stage2.com/2023/10/31/article-title2/">
 	<title>Article Title</title>
-	<link>/2023/10/31/article-title2/</link>
+	<link>https://stage2.com/2023/10/31/article-title2/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>

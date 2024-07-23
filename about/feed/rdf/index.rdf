@@ -6,9 +6,9 @@
 	xmlns:admin="http://webns.net/mvcb/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-<channel rdf:about="/">
+<channel rdf:about="https://stage2.com/">
 	<title>About &#8211; Estudio Frontier</title>
-	<link>/</link>
+	<link>https://stage2.com/</link>
 	<description></description>
 	<dc:date>2023-10-31T13:37:17Z	</dc:date>
 	<sy:updatePeriod>
@@ -19,13 +19,13 @@
 	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="/about/"/>
+					<rdf:li rdf:resource="https://stage2.com/about/"/>
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="/about/">
+<item rdf:about="https://stage2.com/about/">
 	<title>About</title>
-	<link>/about/</link>
+	<link>https://stage2.com/about/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:36:52Z</dc:date>
@@ -66,7 +66,7 @@
 				<div class="elementor-element elementor-element-13f51295 elementor-widget__width-inherit elementor-widget-mobile__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="13f51295" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.20.0 - 26-03-2024 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="800" height="354" src="/wp-content/uploads/2023/10/about-hero-img-1024x453.jpg" class="attachment-large size-large wp-image-61" alt="" srcset="/wp-content/uploads/2023/10/about-hero-img-1024x453.jpg 1024w, /wp-content/uploads/2023/10/about-hero-img-300x133.jpg 300w, /wp-content/uploads/2023/10/about-hero-img-768x340.jpg 768w, /wp-content/uploads/2023/10/about-hero-img-1536x680.jpg 1536w, /wp-content/uploads/2023/10/about-hero-img.jpg 1920w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="800" height="354" src="https://stage2.com/wp-content/uploads/2023/10/about-hero-img-1024x453.jpg" class="attachment-large size-large wp-image-61" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/about-hero-img-1024x453.jpg 1024w, https://stage2.com/wp-content/uploads/2023/10/about-hero-img-300x133.jpg 300w, https://stage2.com/wp-content/uploads/2023/10/about-hero-img-768x340.jpg 768w, https://stage2.com/wp-content/uploads/2023/10/about-hero-img-1536x680.jpg 1536w, https://stage2.com/wp-content/uploads/2023/10/about-hero-img.jpg 1920w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-5db61b52 e-flex e-con-boxed e-con e-parent" data-id="5db61b52" data-element_type="container" data-core-v316-plus="true">
@@ -84,7 +84,7 @@
 				<div class="elementor-element elementor-element-bdaba05 elementor-align-justify elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-button" data-id="bdaba05" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:450}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="/services/">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://stage2.com/services/">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">learn more</span>
 		</span>
@@ -183,7 +183,7 @@
 		<div class="elementor-element elementor-element-270b5fb1 e-con-full e-flex e-con e-parent" data-id="270b5fb1" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-289b39e6 elementor-invisible elementor-widget elementor-widget-image" data-id="289b39e6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" width="577" height="811" src="/wp-content/uploads/2023/10/the-faces1.jpg" class="attachment-large size-large wp-image-62" alt="" srcset="/wp-content/uploads/2023/10/the-faces1.jpg 577w, /wp-content/uploads/2023/10/the-faces1-213x300.jpg 213w" sizes="(max-width: 577px) 100vw, 577px" />													</div>
+													<img decoding="async" width="577" height="811" src="https://stage2.com/wp-content/uploads/2023/10/the-faces1.jpg" class="attachment-large size-large wp-image-62" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/the-faces1.jpg 577w, https://stage2.com/wp-content/uploads/2023/10/the-faces1-213x300.jpg 213w" sizes="(max-width: 577px) 100vw, 577px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-6ad26ac8 elementor-widget elementor-widget-image-box" data-id="6ad26ac8" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -194,7 +194,7 @@
 		<div class="elementor-element elementor-element-4b0c51eb e-con-full e-flex e-con e-parent" data-id="4b0c51eb" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-19f63c2b elementor-invisible elementor-widget elementor-widget-image" data-id="19f63c2b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" width="577" height="810" src="/wp-content/uploads/2023/10/the-faces2.jpg" class="attachment-large size-large wp-image-63" alt="" srcset="/wp-content/uploads/2023/10/the-faces2.jpg 577w, /wp-content/uploads/2023/10/the-faces2-214x300.jpg 214w" sizes="(max-width: 577px) 100vw, 577px" />													</div>
+													<img decoding="async" width="577" height="810" src="https://stage2.com/wp-content/uploads/2023/10/the-faces2.jpg" class="attachment-large size-large wp-image-63" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/the-faces2.jpg 577w, https://stage2.com/wp-content/uploads/2023/10/the-faces2-214x300.jpg 214w" sizes="(max-width: 577px) 100vw, 577px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-774ebebe elementor-widget elementor-widget-image-box" data-id="774ebebe" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -204,7 +204,7 @@
 		<div class="elementor-element elementor-element-2184d50e e-con-full e-flex e-con e-parent" data-id="2184d50e" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-a964f08 elementor-invisible elementor-widget elementor-widget-image" data-id="a964f08" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="400" height="564" src="/wp-content/uploads/2023/10/about-the-team1.jpg" class="attachment-large size-large wp-image-64" alt="" srcset="/wp-content/uploads/2023/10/about-the-team1.jpg 400w, /wp-content/uploads/2023/10/about-the-team1-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
+													<img loading="lazy" decoding="async" width="400" height="564" src="https://stage2.com/wp-content/uploads/2023/10/about-the-team1.jpg" class="attachment-large size-large wp-image-64" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/about-the-team1.jpg 400w, https://stage2.com/wp-content/uploads/2023/10/about-the-team1-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-5d45336d elementor-widget elementor-widget-image-box" data-id="5d45336d" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -215,7 +215,7 @@
 		<div class="elementor-element elementor-element-34dac8ed e-con-full e-flex e-con e-parent" data-id="34dac8ed" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-5facbb67 elementor-invisible elementor-widget elementor-widget-image" data-id="5facbb67" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="400" height="564" src="/wp-content/uploads/2023/10/about-the-team4.jpg" class="attachment-large size-large wp-image-65" alt="" srcset="/wp-content/uploads/2023/10/about-the-team4.jpg 400w, /wp-content/uploads/2023/10/about-the-team4-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
+													<img loading="lazy" decoding="async" width="400" height="564" src="https://stage2.com/wp-content/uploads/2023/10/about-the-team4.jpg" class="attachment-large size-large wp-image-65" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/about-the-team4.jpg 400w, https://stage2.com/wp-content/uploads/2023/10/about-the-team4-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-56f54aef elementor-widget elementor-widget-image-box" data-id="56f54aef" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -230,7 +230,7 @@
 		<div class="elementor-element elementor-element-6d325791 e-con-full e-flex e-con e-parent" data-id="6d325791" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-5ecc8f09 elementor-invisible elementor-widget elementor-widget-image" data-id="5ecc8f09" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="400" height="564" src="/wp-content/uploads/2023/10/about-the-team6.jpg" class="attachment-large size-large wp-image-66" alt="" srcset="/wp-content/uploads/2023/10/about-the-team6.jpg 400w, /wp-content/uploads/2023/10/about-the-team6-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
+													<img loading="lazy" decoding="async" width="400" height="564" src="https://stage2.com/wp-content/uploads/2023/10/about-the-team6.jpg" class="attachment-large size-large wp-image-66" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/about-the-team6.jpg 400w, https://stage2.com/wp-content/uploads/2023/10/about-the-team6-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-3bf3f7b7 elementor-widget elementor-widget-image-box" data-id="3bf3f7b7" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -240,7 +240,7 @@
 		<div class="elementor-element elementor-element-47606fdf e-con-full e-flex e-con e-parent" data-id="47606fdf" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-6c78b66e elementor-invisible elementor-widget elementor-widget-image" data-id="6c78b66e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="400" height="564" src="/wp-content/uploads/2023/10/about-the-team2.jpg" class="attachment-large size-large wp-image-67" alt="" srcset="/wp-content/uploads/2023/10/about-the-team2.jpg 400w, /wp-content/uploads/2023/10/about-the-team2-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
+													<img loading="lazy" decoding="async" width="400" height="564" src="https://stage2.com/wp-content/uploads/2023/10/about-the-team2.jpg" class="attachment-large size-large wp-image-67" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/about-the-team2.jpg 400w, https://stage2.com/wp-content/uploads/2023/10/about-the-team2-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-55f5fb9a elementor-widget elementor-widget-image-box" data-id="55f5fb9a" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -251,7 +251,7 @@
 		<div class="elementor-element elementor-element-4afb8354 e-con-full e-flex e-con e-parent" data-id="4afb8354" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-28081030 elementor-invisible elementor-widget elementor-widget-image" data-id="28081030" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="400" height="564" src="/wp-content/uploads/2023/10/about-the-team3.jpg" class="attachment-large size-large wp-image-68" alt="" srcset="/wp-content/uploads/2023/10/about-the-team3.jpg 400w, /wp-content/uploads/2023/10/about-the-team3-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
+													<img loading="lazy" decoding="async" width="400" height="564" src="https://stage2.com/wp-content/uploads/2023/10/about-the-team3.jpg" class="attachment-large size-large wp-image-68" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/about-the-team3.jpg 400w, https://stage2.com/wp-content/uploads/2023/10/about-the-team3-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-51235e22 elementor-widget elementor-widget-image-box" data-id="51235e22" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -262,7 +262,7 @@
 		<div class="elementor-element elementor-element-f86857e e-con-full e-flex e-con e-parent" data-id="f86857e" data-element_type="container" data-core-v316-plus="true">
 				<div class="elementor-element elementor-element-17690b72 elementor-invisible elementor-widget elementor-widget-image" data-id="17690b72" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="400" height="564" src="/wp-content/uploads/2023/10/about-the-team5.jpg" class="attachment-large size-large wp-image-69" alt="" srcset="/wp-content/uploads/2023/10/about-the-team5.jpg 400w, /wp-content/uploads/2023/10/about-the-team5-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
+													<img loading="lazy" decoding="async" width="400" height="564" src="https://stage2.com/wp-content/uploads/2023/10/about-the-team5.jpg" class="attachment-large size-large wp-image-69" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/about-the-team5.jpg 400w, https://stage2.com/wp-content/uploads/2023/10/about-the-team5-213x300.jpg 213w" sizes="(max-width: 400px) 100vw, 400px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-1915d2ca elementor-widget elementor-widget-image-box" data-id="1915d2ca" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -279,60 +279,60 @@
 				</div>
 				<div class="elementor-element elementor-element-4ca1a44c elementor-skin-carousel elementor-widget elementor-widget-media-carousel" data-id="4ca1a44c" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;7&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:110,&quot;sizes&quot;:[]},&quot;slides_per_view_tablet&quot;:&quot;4&quot;,&quot;slides_per_view_mobile&quot;:&quot;2&quot;,&quot;slides_to_scroll_tablet&quot;:&quot;1&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;1&quot;,&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:70,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:60,&quot;sizes&quot;:[]},&quot;skin&quot;:&quot;carousel&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;}" data-widget_type="media-carousel.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<link rel="stylesheet" href="https://stage2.com/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
 			<div class="elementor-main-swiper swiper">
 				<div class="swiper-wrapper">
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="Digitools_logo.svg" data-background="/wp-content/uploads/2023/10/Digitools_logo.svg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="Digitools_logo.svg" data-background="https://stage2.com/wp-content/uploads/2023/10/Digitools_logo.svg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="Tacoon-logo.svg" data-background="/wp-content/uploads/2023/10/Tacoon-logo.svg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="Tacoon-logo.svg" data-background="https://stage2.com/wp-content/uploads/2023/10/Tacoon-logo.svg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="a-ramis-logo.svg" data-background="/wp-content/uploads/2023/10/a-ramis-logo.svg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="a-ramis-logo.svg" data-background="https://stage2.com/wp-content/uploads/2023/10/a-ramis-logo.svg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="shark-logo.svg" data-background="/wp-content/uploads/2023/10/shark-logo.svg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="shark-logo.svg" data-background="https://stage2.com/wp-content/uploads/2023/10/shark-logo.svg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="Digitools_logo.svg" data-background="/wp-content/uploads/2023/10/Digitools_logo.svg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="Digitools_logo.svg" data-background="https://stage2.com/wp-content/uploads/2023/10/Digitools_logo.svg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="Tacoon-logo.svg" data-background="/wp-content/uploads/2023/10/Tacoon-logo.svg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="Tacoon-logo.svg" data-background="https://stage2.com/wp-content/uploads/2023/10/Tacoon-logo.svg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="a-ramis-logo.svg" data-background="/wp-content/uploads/2023/10/a-ramis-logo.svg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="a-ramis-logo.svg" data-background="https://stage2.com/wp-content/uploads/2023/10/a-ramis-logo.svg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="shark-logo.svg" data-background="/wp-content/uploads/2023/10/shark-logo.svg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="shark-logo.svg" data-background="https://stage2.com/wp-content/uploads/2023/10/shark-logo.svg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
@@ -357,7 +357,7 @@
 				<div class="elementor-element elementor-element-50ee3d1e elementor-align-justify elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-button" data-id="50ee3d1e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="/contact/">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://stage2.com/contact/">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">contact us</span>
 		</span>

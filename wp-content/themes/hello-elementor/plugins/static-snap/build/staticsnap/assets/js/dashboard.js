@@ -41661,7 +41661,7 @@ function createMemoryHistory(options) {
     },
     createHref,
     createURL(to) {
-      return new URL(createHref(to), "/");
+      return new URL(createHref(to), "https://stage2.com/");
     },
     encodeLocation(to) {
       let path = typeof to === "string" ? parsePath(to) : to;
@@ -48761,7 +48761,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   STATIC_SNAP_URL: () => (/* binding */ STATIC_SNAP_URL)
 /* harmony export */ });
-const STATIC_SNAP_URL = '/:4321';
+const STATIC_SNAP_URL = 'https://stage2.com/:4321';
 
 /***/ }),
 
@@ -49021,7 +49021,7 @@ __webpack_require__.r(__webpack_exports__);
 const DEFAULT_OPTIONS = {
   Accept: 'application/json, */*;q=0.1'
 };
-const STATIC_SNAP_BASE_URL = '/:4321/api';
+const STATIC_SNAP_BASE_URL = 'https://stage2.com/:4321/api';
 const useStaticSnapAPI = (action, requestOptions) => {
   const {
     getOptions
