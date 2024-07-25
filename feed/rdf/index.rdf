@@ -6,9 +6,9 @@
 	xmlns:admin="http://webns.net/mvcb/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-<channel rdf:about="https://stage2.com/">
+<channel rdf:about="https://lopezlean.github.io/estudio-test/">
 	<title>Estudio Frontier</title>
-	<link>https://stage2.com/</link>
+	<link>https://lopezlean.github.io/estudio-test/</link>
 	<description></description>
 	<dc:date>2023-10-31T13:37:12Z	</dc:date>
 	<sy:updatePeriod>
@@ -16,25 +16,25 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6" />
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.1" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title9/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title8/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title7/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title6/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title5/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title4/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title3/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title2/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/article-title/"/>
-					<rdf:li rdf:resource="https://stage2.com/2023/10/31/hola-mundo/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title9/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title8/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title7/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title6/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title5/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title4/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title3/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title2/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/article-title/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/"/>
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="https://stage2.com/2023/10/31/article-title9/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title9/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title9/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title9/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>
@@ -62,9 +62,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/article-title8/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title8/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title8/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title8/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>
@@ -92,9 +92,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/article-title7/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title7/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title7/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title7/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>
@@ -122,9 +122,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/article-title6/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title6/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title6/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title6/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>
@@ -152,9 +152,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/article-title5/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title5/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title5/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title5/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>
@@ -182,9 +182,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/article-title4/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title4/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title4/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title4/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>
@@ -212,9 +212,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/article-title3/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title3/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title3/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title3/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>
@@ -242,9 +242,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/article-title2/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title2/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title2/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title2/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:12Z</dc:date>
@@ -272,9 +272,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/article-title/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/article-title/">
 	<title>Article Title</title>
-	<link>https://stage2.com/2023/10/31/article-title/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:11Z</dc:date>
@@ -302,9 +302,9 @@
 ]]></content:encoded>
 	
 	</item>
-<item rdf:about="https://stage2.com/2023/10/31/hola-mundo/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/">
 	<title>¡Hola mundo!</title>
-	<link>https://stage2.com/2023/10/31/hola-mundo/</link>
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:33:02Z</dc:date>

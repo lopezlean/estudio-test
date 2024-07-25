@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en: Article Title	</title>
-	<atom:link href="https://stage2.com/2023/10/31/article-title/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>https://stage2.com/2023/10/31/article-title/</link>
+	<atom:link href="https://lopezlean.github.io/estudio-test/2023/10/31/article-title/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/article-title/</link>
 	<description></description>
 	<lastBuildDate>Tue, 31 Oct 2023 13:37:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 </channel>
 </rss>

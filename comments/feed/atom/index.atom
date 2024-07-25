@@ -9,14 +9,14 @@
 
 	<updated>2023-10-31T13:33:02Z</updated>
 
-	<link rel="alternate" type="text/html" href="https://stage2.com/" />
-	<link rel="self" type="application/atom+xml" href="https://stage2.com/comments/feed/index.rssatom/" />
-	<id>https://stage2.com/comments/feed/index.rssatom/</id>
-<generator uri="https://wordpress.org/" version="6.6">WordPress</generator>
+	<link rel="alternate" type="text/html" href="https://lopezlean.github.io/estudio-test/" />
+	<link rel="self" type="application/atom+xml" href="https://lopezlean.github.io/estudio-test/comments/feed/index.rssatom/" />
+	<id>https://lopezlean.github.io/estudio-test/comments/feed/index.rssatom/</id>
+<generator uri="https://wordpress.org/" version="6.6.1">WordPress</generator>
 	<entry>
 		<title>
 		Comentario en ¡Hola mundo! por Un comentarista de WordPress		</title>
-		<link rel="alternate" href="https://stage2.com/2023/10/31/hola-mundo/#comment-1" type="text/html" />
+		<link rel="alternate" href="https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/#comment-1" type="text/html" />
 
 		<author>
 			<name>Un comentarista de WordPress</name>
@@ -27,11 +27,11 @@
 		<updated>2023-10-31T13:33:02Z</updated>
 		<published>2023-10-31T13:33:02Z</published>
 
-					<content type="html" xml:base="https://stage2.com/2023/10/31/hola-mundo/#comment-1"><![CDATA[<p>Hola, esto es un comentario.<br />
+					<content type="html" xml:base="https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/#comment-1"><![CDATA[<p>Hola, esto es un comentario.<br />
 Para empezar a moderar, editar y borrar comentarios, por favor, visitá en el escritorio la pantalla de comentarios.<br />
 Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/">Gravatar</a>.</p>
 ]]></content>
 		
-					<thr:in-reply-to ref="https://localhost/?p=1" href="https://stage2.com/2023/10/31/hola-mundo/" type="text/html" />
+					<thr:in-reply-to ref="https://localhost/?p=1" href="https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/" type="text/html" />
 				</entry>
 	</feed>

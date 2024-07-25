@@ -6,9 +6,9 @@
 	xmlns:admin="http://webns.net/mvcb/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-<channel rdf:about="https://stage2.com/">
+<channel rdf:about="https://lopezlean.github.io/estudio-test/">
 	<title>Estudio Frontier</title>
-	<link>https://stage2.com/</link>
+	<link>https://lopezlean.github.io/estudio-test/</link>
 	<description></description>
 	<dc:date>2024-07-22T08:17:22Z	</dc:date>
 	<sy:updatePeriod>
@@ -16,16 +16,16 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6" />
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.1" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="https://stage2.com/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/"/>
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="https://stage2.com/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/">
 	<title>Home</title>
-	<link>https://stage2.com/</link>
+	<link>https://lopezlean.github.io/estudio-test/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:37:00Z</dc:date>
@@ -61,7 +61,7 @@
 				<div class="elementor-element elementor-element-2e600ee9 elementor-widget__width-initial elementor-absolute elementor-widget-mobile__width-inherit elementor-invisible elementor-widget elementor-widget-image" data-id="2e600ee9" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;slideInRight&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.20.0 - 26-03-2024 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="800" height="800" src="https://stage2.com/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b.webp" class="attachment-large size-large wp-image-141" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b.webp 1024w, https://stage2.com/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b-300x300.webp 300w, https://stage2.com/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b-150x150.webp 150w, https://stage2.com/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="800" height="800" src="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b.webp" class="attachment-large size-large wp-image-141" alt="" srcset="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b.webp 1024w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b-300x300.webp 300w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b-150x150.webp 150w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/33c4f550-2213-4dbb-803d-f6646d97cd2b-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-4952d40a elementor-fixed animated-slow elementor-hidden-mobile elementor-view-default elementor-invisible elementor-widget elementor-widget-icon" data-id="4952d40a" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;fixed&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:1800}" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
@@ -187,7 +187,7 @@
 		<div class="elementor-element elementor-element-1348c907 e-con-full e-flex e-con e-child" data-id="1348c907" data-element_type="container">
 				<div class="elementor-element elementor-element-1a462484 elementor-invisible elementor-widget elementor-widget-image" data-id="1a462484" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_tablet&quot;:&quot;slideInLeft&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" width="800" height="800" src="https://stage2.com/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b.webp" class="attachment-large size-large wp-image-151" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b.webp 1024w, https://stage2.com/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b-300x300.webp 300w, https://stage2.com/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b-150x150.webp 150w, https://stage2.com/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+													<img decoding="async" width="800" height="800" src="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b.webp" class="attachment-large size-large wp-image-151" alt="" srcset="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b.webp 1024w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b-300x300.webp 300w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b-150x150.webp 150w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/7a74fb0e-c402-486b-a0a5-37e7be48279b-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-35c1bea8 elementor-widget elementor-widget-image-box" data-id="35c1bea8" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -198,7 +198,7 @@
 		<div class="elementor-element elementor-element-51f6471 e-con-full e-flex e-con e-child" data-id="51f6471" data-element_type="container">
 				<div class="elementor-element elementor-element-75f438b5 elementor-invisible elementor-widget elementor-widget-image" data-id="75f438b5" data-element_type="widget" data-settings="{&quot;_animation_tablet&quot;:&quot;slideInRight&quot;,&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-													<img decoding="async" width="800" height="800" src="https://stage2.com/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13.webp" class="attachment-large size-large wp-image-150" alt="" srcset="https://stage2.com/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13.webp 1024w, https://stage2.com/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13-300x300.webp 300w, https://stage2.com/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13-150x150.webp 150w, https://stage2.com/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
+													<img decoding="async" width="800" height="800" src="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13.webp" class="attachment-large size-large wp-image-150" alt="" srcset="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13.webp 1024w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13-300x300.webp 300w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13-150x150.webp 150w, https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/5a545135-a35c-4777-b8a9-15bbdb0e5e13-768x768.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-6493cb6e elementor-widget elementor-widget-image-box" data-id="6493cb6e" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
@@ -214,144 +214,144 @@
 				</div>
 				<div class="elementor-element elementor-element-25054a28 elementor-skin-carousel elementor-widget elementor-widget-media-carousel" data-id="25054a28" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;5&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:110,&quot;sizes&quot;:[]},&quot;slides_per_view_tablet&quot;:&quot;4&quot;,&quot;slides_per_view_mobile&quot;:&quot;2&quot;,&quot;slides_to_scroll_tablet&quot;:&quot;1&quot;,&quot;slides_to_scroll_mobile&quot;:&quot;1&quot;,&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:70,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:60,&quot;sizes&quot;:[]},&quot;skin&quot;:&quot;carousel&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;}" data-widget_type="media-carousel.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://stage2.com/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<link rel="stylesheet" href="https://lopezlean.github.io/estudio-test/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
 			<div class="elementor-main-swiper swiper">
 				<div class="swiper-wrapper">
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="sportline" data-background="https://stage2.com/wp-content/uploads/2023/11/sportline.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="sportline" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/sportline.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="mas-seguridad" data-background="https://stage2.com/wp-content/uploads/2023/11/mas-seguridad.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="mas-seguridad" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/mas-seguridad.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="surfrigo" data-background="https://stage2.com/wp-content/uploads/2023/11/surfrigo.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="surfrigo" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/surfrigo.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="6soles" data-background="https://stage2.com/wp-content/uploads/2023/11/6soles.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="6soles" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/6soles.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="mmc" data-background="https://stage2.com/wp-content/uploads/2023/11/mmc.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="mmc" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/mmc.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="adelina" data-background="https://stage2.com/wp-content/uploads/2023/11/adelina.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="adelina" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/adelina.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="gei" data-background="https://stage2.com/wp-content/uploads/2023/11/gei.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="gei" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/gei.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="moron" data-background="https://stage2.com/wp-content/uploads/2023/11/moron.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="moron" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/moron.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="neuman" data-background="https://stage2.com/wp-content/uploads/2023/11/neuman.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="neuman" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/neuman.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="celsi" data-background="https://stage2.com/wp-content/uploads/2023/11/celsi.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="celsi" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/celsi.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="ats" data-background="https://stage2.com/wp-content/uploads/2023/11/ats.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="ats" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/ats.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="frios-norte" data-background="https://stage2.com/wp-content/uploads/2023/11/frios-norte.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="frios-norte" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/frios-norte.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="shell" data-background="https://stage2.com/wp-content/uploads/2023/11/shell.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="shell" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/shell.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="churchil" data-background="https://stage2.com/wp-content/uploads/2023/11/churchil.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="churchil" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/churchil.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="amarilis" data-background="https://stage2.com/wp-content/uploads/2023/11/amarilis.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="amarilis" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/amarilis.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="quirogita" data-background="https://stage2.com/wp-content/uploads/2023/11/quirogita.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="quirogita" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/quirogita.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="mb" data-background="https://stage2.com/wp-content/uploads/2023/11/mb.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="mb" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/mb.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="hema" data-background="https://stage2.com/wp-content/uploads/2023/11/hema.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="hema" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/hema.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="ceracor" data-background="https://stage2.com/wp-content/uploads/2023/11/ceracor.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="ceracor" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/ceracor.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			
 					</div>
 								</div>
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="kase" data-background="https://stage2.com/wp-content/uploads/2023/11/kase.jpg">
+									<div class="elementor-carousel-image swiper-lazy" role="img" aria-label="kase" data-background="https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/11/kase.jpg">
 
 							<div class="swiper-lazy-preloader"></div>
 			

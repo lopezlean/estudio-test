@@ -733,7 +733,7 @@ function isValidAuthority(authority) {
  *
  * @example
  * ```js
- * const path1 = getPath( 'https://stage2.com/:8080/this/is/a/test?query=true' ); // 'this/is/a/test'
+ * const path1 = getPath( 'https://lopezlean.github.io/estudio-test/:8080/this/is/a/test?query=true' ); // 'this/is/a/test'
  * const path2 = getPath( 'https://wordpress.org/help/faq/' ); // 'help/faq'
  * ```
  *
@@ -775,7 +775,7 @@ function isValidPath(path) {
  *
  * @example
  * ```js
- * const queryString = getQueryString( 'https://stage2.com/:8080/this/is/a/test?query=true#fragment' ); // 'query=true'
+ * const queryString = getQueryString( 'https://lopezlean.github.io/estudio-test/:8080/this/is/a/test?query=true#fragment' ); // 'query=true'
  * ```
  *
  * @return {string|void} The query string part of the URL.
@@ -881,7 +881,7 @@ function isValidQueryString(queryString) {
  *
  * @example
  * ```js
- * const pathAndQueryString1 = getPathAndQueryString( 'https://stage2.com/:8080/this/is/a/test?query=true' ); // '/this/is/a/test?query=true'
+ * const pathAndQueryString1 = getPathAndQueryString( 'https://lopezlean.github.io/estudio-test/:8080/this/is/a/test?query=true' ); // '/this/is/a/test?query=true'
  * const pathAndQueryString2 = getPathAndQueryString( 'https://wordpress.org/help/faq/' ); // '/help/faq'
  * ```
  *
@@ -908,7 +908,7 @@ function getPathAndQueryString(url) {
  *
  * @example
  * ```js
- * const fragment1 = getFragment( 'https://stage2.com/:8080/this/is/a/test?query=true#fragment' ); // '#fragment'
+ * const fragment1 = getFragment( 'https://lopezlean.github.io/estudio-test/:8080/this/is/a/test?query=true#fragment' ); // '#fragment'
  * const fragment2 = getFragment( 'https://wordpress.org#another-fragment?query=true' ); // '#another-fragment'
  * ```
  *
@@ -1322,7 +1322,7 @@ function cleanForSlug(string) {
  *
  * @example
  * ```js
- * const filename1 = getFilename( 'https://stage2.com/:8080/this/is/a/test.jpg' ); // 'test.jpg'
+ * const filename1 = getFilename( 'https://lopezlean.github.io/estudio-test/:8080/this/is/a/test.jpg' ); // 'test.jpg'
  * const filename2 = getFilename( '/this/is/a/test.png' ); // 'test.png'
  * ```
  *

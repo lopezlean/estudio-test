@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comentarios en: ¡Hola mundo!	</title>
-	<atom:link href="https://stage2.com/2023/10/31/hola-mundo/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>https://stage2.com/2023/10/31/hola-mundo/</link>
+	<atom:link href="https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/</link>
 	<description></description>
 	<lastBuildDate>Tue, 31 Oct 2023 13:33:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>
 		Por: Un comentarista de WordPress		</title>
-		<link>https://stage2.com/2023/10/31/hola-mundo/#comment-1</link>
+		<link>https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:33:02 +0000</pubDate>

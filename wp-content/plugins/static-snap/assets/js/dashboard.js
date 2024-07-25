@@ -41661,7 +41661,7 @@ function createMemoryHistory(options) {
     },
     createHref,
     createURL(to) {
-      return new URL(createHref(to), "https://stage2.com/");
+      return new URL(createHref(to), "https://lopezlean.github.io/estudio-test/");
     },
     encodeLocation(to) {
       let path = typeof to === "string" ? parsePath(to) : to;
@@ -48935,7 +48935,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   STATIC_SNAP_URL: () => (/* binding */ STATIC_SNAP_URL)
 /* harmony export */ });
-const STATIC_SNAP_URL = 'https://stage2.com/:4321';
+const STATIC_SNAP_URL = 'https://lopezlean.github.io/estudio-test/:4321';
 
 /***/ }),
 
@@ -49195,7 +49195,7 @@ __webpack_require__.r(__webpack_exports__);
 const DEFAULT_OPTIONS = {
   Accept: 'application/json, */*;q=0.1'
 };
-const STATIC_SNAP_BASE_URL = 'https://stage2.com/:4321/api';
+const STATIC_SNAP_BASE_URL = 'https://lopezlean.github.io/estudio-test/:4321/api';
 const useStaticSnapAPI = (action, requestOptions) => {
   const {
     getOptions
@@ -49603,7 +49603,11 @@ const AccountIndex = () => {
     elevation: 0
   }, (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_CardHeader__WEBPACK_IMPORTED_MODULE_4__["default"], {
     title: "Account"
-  }), (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_CardContent__WEBPACK_IMPORTED_MODULE_5__["default"], null, (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_Box__WEBPACK_IMPORTED_MODULE_6__["default"], {
+  }), (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_CardContent__WEBPACK_IMPORTED_MODULE_5__["default"], {
+    sx: {
+      flexDirection: 'column'
+    }
+  }, (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_Box__WEBPACK_IMPORTED_MODULE_6__["default"], {
     sx: {
       alignItems: 'center',
       display: 'flex'
@@ -49624,7 +49628,25 @@ const AccountIndex = () => {
   }, options.currentOptions?.user.user_name), (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_Typography__WEBPACK_IMPORTED_MODULE_8__["default"], {
     variant: "body2",
     component: "p"
-  }, options.currentOptions?.user.user_email))))));
+  }, options.currentOptions?.user.user_email), options.currentOptions?.related_github_user.github_login !== options.currentOptions?.installation_login && (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_Box__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    sx: {
+      alignItems: 'center',
+      display: 'flex'
+    }
+  }, (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_Avatar__WEBPACK_IMPORTED_MODULE_7__["default"], {
+    sx: {
+      height: 18,
+      width: 18
+    },
+    src: options.currentOptions?.installation_avatar_url
+  }), (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_Box__WEBPACK_IMPORTED_MODULE_6__["default"], {
+    sx: {
+      ml: 1
+    }
+  }, (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_mui_material_Typography__WEBPACK_IMPORTED_MODULE_8__["default"], {
+    variant: "body2",
+    component: "p"
+  }, options.currentOptions?.installation_login))))))));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (AccountIndex);
 

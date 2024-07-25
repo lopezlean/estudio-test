@@ -6,9 +6,9 @@
 	xmlns:admin="http://webns.net/mvcb/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-<channel rdf:about="https://stage2.com/">
+<channel rdf:about="https://lopezlean.github.io/estudio-test/">
 	<title>Contact &#8211; Estudio Frontier</title>
-	<link>https://stage2.com/</link>
+	<link>https://lopezlean.github.io/estudio-test/</link>
 	<description></description>
 	<dc:date>2023-10-31T13:37:16Z	</dc:date>
 	<sy:updatePeriod>
@@ -16,16 +16,16 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6" />
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.1" />
 	<items>
 		<rdf:Seq>
-					<rdf:li rdf:resource="https://stage2.com/contact/"/>
+					<rdf:li rdf:resource="https://lopezlean.github.io/estudio-test/contact/"/>
 				</rdf:Seq>
 	</items>
 </channel>
-<item rdf:about="https://stage2.com/contact/">
+<item rdf:about="https://lopezlean.github.io/estudio-test/contact/">
 	<title>Contact</title>
-	<link>https://stage2.com/contact/</link>
+	<link>https://lopezlean.github.io/estudio-test/contact/</link>
 
 	<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 	<dc:date>2023-10-31T13:36:43Z</dc:date>
@@ -194,7 +194,7 @@
 				<div class="elementor-element elementor-element-b4581eb elementor-align-justify elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-button" data-id="b4581eb" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:450}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://stage2.com/about/">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://lopezlean.github.io/estudio-test/about/">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">learn more</span>
 		</span>
@@ -218,7 +218,7 @@
 				<div class="elementor-element elementor-element-5f5c35ed elementor-align-justify elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-button" data-id="5f5c35ed" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:600}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://stage2.com/contact/">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://lopezlean.github.io/estudio-test/contact/">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">contact us</span>
 		</span>

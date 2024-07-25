@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sin categoría &#8211; Estudio Frontier</title>
-	<atom:link href="https://stage2.com/category/sin-categoria/feed/index.rss" rel="self" type="application/rss+xml" />
-	<link>https://stage2.com/</link>
+	<atom:link href="https://lopezlean.github.io/estudio-test/category/sin-categoria/feed/index.rss" rel="self" type="application/rss+xml" />
+	<link>https://lopezlean.github.io/estudio-test/</link>
 	<description></description>
 	<lastBuildDate>Tue, 31 Oct 2023 13:33:02 +0000</lastBuildDate>
 	<language>es-AR</language>
@@ -18,19 +18,19 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://stage2.com/wp-content/uploads/2023/10/cropped-cropped-cropped-6f2eab96-ddee-4759-a2b2-338e67a5b80f-32x32.webp</url>
+	<url>https://lopezlean.github.io/estudio-test/wp-content/uploads/2023/10/cropped-cropped-cropped-6f2eab96-ddee-4759-a2b2-338e67a5b80f-32x32.webp</url>
 	<title>Sin categoría &#8211; Estudio Frontier</title>
-	<link>https://stage2.com/</link>
+	<link>https://lopezlean.github.io/estudio-test/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>¡Hola mundo!</title>
-		<link>https://stage2.com/2023/10/31/hola-mundo/</link>
-					<comments>https://stage2.com/2023/10/31/hola-mundo/#comments</comments>
+		<link>https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/</link>
+					<comments>https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[admin-estudio]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2023 13:33:02 +0000</pubDate>
@@ -42,7 +42,7 @@
 <p>Bienvenido a WordPress. Esta es tu primera entrada. Editala o borrala, y después ¡empezá a escribir!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://stage2.com/2023/10/31/hola-mundo/feed/index.rss</wfw:commentRss>
+					<wfw:commentRss>https://lopezlean.github.io/estudio-test/2023/10/31/hola-mundo/feed/index.rss</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
